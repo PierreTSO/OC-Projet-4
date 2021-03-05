@@ -705,8 +705,11 @@ p {
 }
 
 h2 {
-    font-size: 22px;
+    font-size: 15px;
     line-height: 1.4em;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #333333!important;
 }
 
 h3 {
