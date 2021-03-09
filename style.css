@@ -80,6 +80,7 @@ a:hover {
     background: top no-repeat;
 }
 
+
 .texture-paper::before {
     background: url("img/texture-paper.png");
     background-size: 280px 280px;
@@ -495,6 +496,7 @@ button {
 .panel-rd .panel-footer {
     border-radius: 0 0 29px 29px;
 }
+
 
 .form-control {
     border-color: rgba(0, 0, 0, .1);
