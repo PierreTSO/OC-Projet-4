@@ -1047,3 +1047,14 @@ h4 {
         text-align: center;
     }
 }
+
+footer {
+    font-size: 17px;
+    padding: auto;
+    display: flex;
+    align-items: flex-end;
+}
+
+h5 {
+    font-size: 17px;
+}
