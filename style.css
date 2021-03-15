@@ -865,6 +865,7 @@ h4 {
     .b-parallax {
         background-attachment: scroll;
     }
+    
 }
 
 @media (max-width: 991px) {
@@ -1048,6 +1049,13 @@ h4 {
     }
 }
 
+@media (min-width: 1200px) { 
+    #footer-flex {
+        display: flex;
+        align-items: center;
+    }
+}
+
 footer {
     font-size: 17px;
     padding: auto;
@@ -1058,3 +1066,4 @@ footer {
 h5 {
     font-size: 17px;
 }
+
