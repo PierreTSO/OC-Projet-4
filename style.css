@@ -749,7 +749,8 @@ h4 {
 }
 
 .portfolio-thumb {
-    margin-bottom: 24px;
+    margin: auto;
+    margin-bottom: 20px;
 }
 
 .portfolio-row {
@@ -1067,4 +1068,3 @@ footer {
 h5 {
     font-size: 17px;
 }
-
