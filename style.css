@@ -1058,6 +1058,96 @@ h4 {
     }
 }
 
+/* Small devices (landscape phones, 576px and up) */
+@media (max-width: 576px) {
+    /* <!-- bloc-1-presentation --> */
+
+    h1 {
+        font-weight: 600;
+    }
+
+    .tight-width-whitespace {
+        max-width: 400px;
+        margin: auto auto auto auto;
+    }
+
+    #bloc-1-hero h1 {
+        font-size: 25px;
+        text-transform: uppercase;
+    }
+
+    .cta-hero {
+        font-size: 14px;
+    }
+
+    .black-background {
+        padding: 20px;
+    }
+
+    /* <!-- bloc-2-services --> */
+
+    .bloc-md {
+        padding: 20px;
+    }
+
+    h2 {
+        color: #575757!important;
+        font-size: 22px;
+        font-weight: 600;
+    }
+
+    .voffset-lg {
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    h3 {
+        font-size: 18px;
+        font-weight: 600;
+    }
+
+    p {
+        font-size: 16px;
+    }
+
+    #citation {
+        font-size: 16px;
+        font-style: italic;
+    }
+
+    #auteur-citation {
+        font-size: 16px;
+        font-weight: 600;
+    }
+
+    /* <!-- bloc-3-what-i-do --> */
+
+    #text-bloc-3 {
+        font-size: 21px;
+    }
+
+
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+
+ }
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+
+ }
+
+/* X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+
+ }
+
+/* XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) {
+
+ }
+
 footer {
     font-size: 17px;
     padding: auto;
