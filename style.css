@@ -749,8 +749,16 @@ h4 {
     margin-top: 24px;
 }
 
+.padding-footer {
+    padding: 3%;
+}
+
 .white {
     color: #FFFFFF!important;
+}
+
+.black {
+    color: #000000!important;
 }
 
 .portfolio-thumb {
@@ -1252,7 +1260,6 @@ h4 {
 
 footer {
     font-size: 17px;
-    padding: auto;
     display: flex;
     align-items: flex-end;
 }
